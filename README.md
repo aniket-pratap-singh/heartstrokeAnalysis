@@ -33,12 +33,6 @@ Developed a machine learning-based stroke prediction system using healthcare dat
 ## Evaluation Metrics
 Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
 
-## How to Run
-```bash
-git clone https://github.com/your-username/Stroke-Prediction-ML.git
-pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost
-```
-Open `stroke_prediction.ipynb` in Jupyter Notebook or Google Colab and run the cells.
 
 ## Author
 **Aniket Pratap Singh**
